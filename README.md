@@ -8,7 +8,7 @@ I am a 15yr Python Programmer, this is my programming blog, nothing else! , I li
 
 
 
-I will update this blog probaly x+x^2 times a week?(X is a unknown interger!)
+I will update this blog probaly x+x^2 times a week?(X is an unknown interger!)
 
 
 
