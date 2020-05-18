@@ -3,6 +3,14 @@
 
 
 
+
+
+
+
+
+
+*About Me*
+
 **My Name is Leo,**
 I am a 15yr old Python Programmer, this is my programming blog, nothing else! , I like Tech stuff, Gaming(TF2,BF4), Overclocking, Bios Flashing(*AMD YES!*) and that's my life *(Atleast for now)*
 
