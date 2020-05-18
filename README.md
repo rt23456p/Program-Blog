@@ -33,4 +33,7 @@ I will update this blog probaly x+x^2 times a week?(X is an unknown interger!)
 
 You can follow me on Github, Instargram@rt23456p, Zhihu@rt23456p, Origin@rt23456, Steam@prcleo12345,
 
-**Keep Calm and Keep Programming Spirits!**
+
+
+
+**Keep Calm and Keep Programming Spirits! and stay away from spying products like #cisco and #Apple!**
