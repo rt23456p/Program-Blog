@@ -31,7 +31,7 @@ I will update this blog probaly x+x^2 times a week?(X is an unknown interger!)
 
 
 
-You can follow me on Github, Instargram@rt23456p, Zhihu@rt23456p, Origin@rt23456, Steam@prcleo12345,
+You can follow me on Instargram@rt23456p, Origin@rt23456, Steam@prcleo12345,
 
 
 
