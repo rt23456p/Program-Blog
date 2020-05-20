@@ -10,7 +10,7 @@
 
 
 
-Plz click on the link below going to a website I created in School,I need to collect some data so it will be great if you do!
+Plz click on the link below going to a website I created in School,I need to collect some device data and accessing region for my school work, so it will be great if you do!
 https://sites.google.com/cis.edu.sg/cis4slec-lelia2023
 
 
