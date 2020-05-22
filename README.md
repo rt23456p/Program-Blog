@@ -37,7 +37,3 @@ You can follow me on Instargram@rt23456p, Origin@rt23456, Steam@prcleo12345,
 
 
 **Keep Calm and Keep Programming Spirits! and stay away from spying products like #cisco and #Apple!**
-
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.softpedia.com%2Fnews%2FPRISM-Yahoo-Was-Threatened-With-Fine-of-250-000-per-Day-by-the-US-Government-458619.shtml&psig=AOvVaw1ObQ7c2iI0NP0nDFAMLWIW&ust=1590215395822000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjzvJHsxukCFQAAAAAdAAAAABAJ
-)
-
