@@ -33,7 +33,7 @@ I will update this blog probaly x+x^2 times a week?(X is an unknown interger!)
 
 You can follow me on Instargram@rt23456p, Origin@rt23456, Steam@prcleo12345,
 
-
+<img src="https://user-images.githubusercontent.com/31880587/82638275-23728c80-9c39-11ea-9f46-48e7f2726294.jpg" width="90%"></img> <img src="https://user-images.githubusercontent.com/31880587/82638283-279eaa00-9c39-11ea-9ba6-2340789cc2fc.jpg" width="90%"></img> 
 
 
 **Keep Calm and Keep Programming Spirits! and stay away from spying products like #cisco and #Apple!**
