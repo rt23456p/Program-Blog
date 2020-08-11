@@ -1,4 +1,4 @@
-#Program Blog
+
 *7,Aug,2020*
 I am already back to school and I am pretty busy so I may not have so much time updating on this blog
 
