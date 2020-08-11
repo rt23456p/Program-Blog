@@ -1,10 +1,6 @@
-# Program-Blog
-
-广东省广州市白云区黄石街道黄石西路马务村园艺路2号恒丰大厦首层 易集达集运中心
+#Program Blog
 *7,Aug,2020*
-
 I am already back to school and I am pretty busy so I may not have so much time updating on this blog
-
 
 
 <br/>
