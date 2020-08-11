@@ -1,5 +1,7 @@
 
 *7,Aug,2020*
+
+<br/>
 I am already back to school and I am pretty busy so I may not have so much time updating on this blog
 
 
@@ -25,8 +27,7 @@ https://sites.google.com/cis.edu.sg/cis4slec-lelia2023
 I am a 15yr old Python Programmer based in SIN, this is my programming blog, nothing else! , I like Tech stuff, Gaming(TF2,BF4), Overclocking, Bios Flashing(*AMD YES!*) and that's my life *(Atleast for now)*
 
 
-
-I will update this blog probaly x+x^2 times a week?(X is an unknown interger!)
+I will update this blog probaly x+x^2 times a week?(X is an unknown float!) , lol, 
 
 
 
