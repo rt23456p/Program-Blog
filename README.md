@@ -1,4 +1,10 @@
 
+*19,Aug,2020* (On the topic of latest research and functions)
+
+I am currently writing a function which enables replacing certain words with another one with the same meaning to beat the anti plagiarism system such as Turnitin, I probably will going to open-source it once I am finished with it to help student out there that don't have the time to paraphrase school assignment from the internet, I think the software development will going to take around 60-120 days to come out with a good enough to use version, DM me at rt23456p@yandex.com if you want to help me with word replacing related once since Lan&Lit is one of my worst subject and my least favourite subject for sure.
+
+
+
 *7,Aug,2020*
 
 <br/>
@@ -24,10 +30,10 @@ https://sites.google.com/cis.edu.sg/cis4slec-lelia2023
 ***About Me***
 
 **My Name is Leo,**
-I am a 15yr old Python Programmer based in SIN, this is my programming blog, nothing else! , I like Tech stuff, Gaming(TF2,BF4), Overclocking, Bios Flashing(*AMD YES!*) and that's my life *(Atleast for now)*
+I am a 15yr(Now 16 ur) old Python Programmer based in SIN, this is my programming blog, nothing else! , I like Tech stuff, Gaming(TF2,BF4), Overclocking, Bios Flashing(*AMD YES!*) and that's my life *(At least for now)*
 
 
-I will update this blog probaly x+x^2 times a week?(X is an unknown float!) , lol, 
+I will update this blog probaly x+x^2 times a week?(X is an unknown float!) , lol,
 
 
 
@@ -38,4 +44,4 @@ You can follow me on Instargram@rt23456p, Origin@rt23456, Steam@prcleo12345,
 <img src="https://user-images.githubusercontent.com/31880587/82640120-a0533580-9c3c-11ea-8056-c0e827e8123b.png" width="90%"></img>
 
 
-**Keep Calm and Keep Programming Spirits! and stay away from spying products like #cisco and #Apple!**
+**Keep Calm and Keep Programming Spirits! and stay away from spying products like #cisco!**
