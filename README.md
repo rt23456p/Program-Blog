@@ -3,7 +3,7 @@
 
 *20,Aug,2020* (On Some Experiment)
 
-I tested out some random looping on the repleacing, so that random replacing can take place in JilanSolution, which I mentioned yesterday, which makes the text more variable, you can see below
+I tested out some random looping on the replacing, so that random replacing can take place in JilanSolution, which I mentioned yesterday, which makes the text more variable, which you can see below
 
 <br/>
 
@@ -35,7 +35,9 @@ Output:
 ```
 <br/>
 
-Hopefully the development can be finished early next month
+
+
+Hopefully the development can be finished by early next month, the expected of the first usable version currently is 75 Days, but is subjected to change.
 
 
 <br/>
