@@ -77,7 +77,7 @@ https://sites.google.com/cis.edu.sg/cis4slec-lelia2023
 ***About Me***
 
 **My Name is Leo,**
-I am a 15yr(Now 16 ur) old Python Programmer based in SIN, this is my programming blog, nothing else! , I like Tech stuff, Gaming(TF2,BF4), Overclocking, Bios Flashing(*AMD YES!*) and that's my life *(At least for now)*
+I am a 15yr(Now 16 yr) old Python Programmer based in SIN, this is my programming blog, nothing else! , I like Tech stuff, Gaming(TF2,Squad, CS:GO), Overclocking and that's my life *(At least for now)*
 
 
 I will update this blog probaly x+x^2 times a week?(X is an unknown float!) for now!, LOL!
