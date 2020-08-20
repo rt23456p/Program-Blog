@@ -7,34 +7,32 @@ I tested out some random looping on the replacing, so that random replacing can 
 
 <br/>
 
+```python
+code = "tesla , tesla , tesla "
+while 'tesla' in code:
+K = random.randint(1,2)
+if K == 1:
+  code = code.replace('tesla', 'BMW',1)
+if K == 2:
+  code = code.replace('tesla', 'porsche',1)
+print(code)
+```
 
-                        ```python
 
-                        code = "tesla , tesla , tesla "
+And the outputs:
+```python
 
-                        while 'tesla' in code:
-                            K = random.randint(1,2)
-                            if K == 1:
-                                code = code.replace('tesla', 'BMW',1)
-                            if K == 2:
-                                code = code.replace('tesla', 'porsche',1)
-                        print(code)
+Run 1:
 
-                        Output Run 1:
+BMW , BMW , porsche
+[Finished in 0.056s]
 
-                          Work Done:
+Run 2:
 
-                          BMW , BMW , porsche
-                          [Finished in 0.056s]
-
-                        Output Run 2:
-
-                          Work Done:
-
-                          porsche , porsche , porsche
-                          [Finished in 0.077s]
-                        ```
-                        <br/>
+porsche , porsche , porsche
+[Finished in 0.077s]
+```
+<br/>
 
 
 
