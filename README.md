@@ -1,13 +1,45 @@
 
+
+
+*20,Aug,2020* (On Some Experiment)
+
+I tested out some random looping on the repleacing, so that random replacing can take place in JilanSolution, which I mentioned yesterday, which makes the text more variable, you can see below
+
+<br/>
+
+
 ```python
 
+code = "tesla , tesla , tesla "
+
+while 'tesla' in code:
+    K = random.randint(1,2)
+    if K == 1:
+        code = code.replace('tesla', 'BMW',1)
+    if K == 2:
+        code = code.replace('tesla', 'porsche',1)
+print(code)
+
+Output:
+
+  Work Done:
+
+  BMW , BMW , porsche
+  [Finished in 0.056s]
 
 
+  Work Done:
+
+  porsche , porsche , porsche
+  [Finished in 0.077s]
 ```
+<br/>
+
+Hopefully the development can be finished early next month
 
 
-
-
+<br/>
+<br/>
 
 
 
