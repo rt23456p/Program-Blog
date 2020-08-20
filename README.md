@@ -1,7 +1,8 @@
 
 *19,Aug,2020* (On the topic of latest research and functions)
 
-I am currently writing a function which enables replacing certain words with another one with the same meaning to beat the anti plagiarism system such as Turnitin, I probably will going to open-source it once I am finished with it to help student out there that don't have the time to paraphrase school assignment from the internet, I think the software development will going to take around 60-120 days to come out with a good enough to use version, DM me at rt23456p@yandex.com if you want to help me with word replacing related once since Lan&Lit is one of my worst subject and my least favourite subject for sure.
+I am currently writing a function which enables replacing certain words with another one with the same meaning to beat the anti plagiarism system such as Turnitin, I probably will going to open-source it once I am finished with it to help student out there that don't have the time to paraphrase school assignment from the internet, I think the software development will going to take around 60-120 days to come out with a good enough to use version, DM me at rt23456p@yandex.com if you want to help me with word replacing related once since Lan&Lit is one of my worst subject and my least favourite subject for sure. 
+You can view the code once I public it at https://github.com/rt23456p/JilanSolution.
 
 
 
