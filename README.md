@@ -1,7 +1,52 @@
 
+
+
+*20,Aug,2020* (On Some Experiment)
+
+I tested out some random looping on the repleacing, so that random replacing can take place in JilanSolution, which I mentioned yesterday, which makes the text more variable, you can see below
+
+<br/>
+
+
+```python
+
+code = "tesla , tesla , tesla "
+
+while 'tesla' in code:
+    K = random.randint(1,2)
+    if K == 1:
+        code = code.replace('tesla', 'BMW',1)
+    if K == 2:
+        code = code.replace('tesla', 'porsche',1)
+print(code)
+
+Output:
+
+  Work Done:
+
+  BMW , BMW , porsche
+  [Finished in 0.056s]
+
+
+  Work Done:
+
+  porsche , porsche , porsche
+  [Finished in 0.077s]
+```
+<br/>
+
+Hopefully the development can be finished early next month
+
+
+<br/>
+<br/>
+
+
+
 *19,Aug,2020* (On the topic of latest research and functions)
 
-I am currently writing a function which enables replacing certain words with another one with the same meaning to beat the anti plagiarism system such as Turnitin, I probably will going to open-source it once I am finished with it to help student out there that don't have the time to paraphrase school assignment from the internet, I think the software development will going to take around 60-120 days to come out with a good enough to use version, DM me at rt23456p@yandex.com if you want to help me with word replacing related once since Lan&Lit is one of my worst subject and my least favourite subject for sure.
+I am currently writing a function which enables replacing certain words with another one with the same meaning to beat the anti plagiarism system such as Turnitin, I probably will going to open-source it once I am finished with it to help student out there that don't have the time to paraphrase school assignment from the internet, I think the software development will going to take around 60-120 days to come out with a good enough to use version, DM me at rt23456p@yandex.com if you want to help me with word replacing related once since Lan&Lit is one of my worst subject and my least favourite subject for sure. 
+You can view the code once I public it at https://github.com/rt23456p/JilanSolution.
 
 
 
