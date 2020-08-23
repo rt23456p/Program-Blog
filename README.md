@@ -1,4 +1,23 @@
 
+*23,Aug,2020* (On Some Experiment)
+<br/>
+
+Today, I tested out mutiple way of packing python into .exe files, which will be useful in the JilanSolution for people that don't know code, but there is still some issues that I need to fixed later, you can see the test build in JilanSolution repo.
+
+
+
+
+
+<br/>
+
+
+
+
+
+
+
+
+
 
 
 *20,Aug,2020* (On Some Experiment)
