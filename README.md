@@ -1,7 +1,25 @@
+<<<<<<< Updated upstream
+=======
+
+*29 Aug,2020*(On the Topic of other way of packing)
+<br/>
+
+I tested out CX-Freeze lately
+
+
+
+
+
+>>>>>>> Stashed changes
 *28 Aug,2020*(On the Topic of other way of packing)
+
+<br/>
+
+
 <br/>
 
 After mentioning pyinstaller in last post, I have been researching other ways of packing to be more friendly for people that don't know code, more info on the next post.
+
 
 
 
