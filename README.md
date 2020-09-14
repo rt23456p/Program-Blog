@@ -1,10 +1,17 @@
 <<<<<<< Updated upstream
 =======
 
+*14 Sep,2020* (On the topic of Git and Other Repos)
+
+Given that Github is been fully owned by Microsoft, which is shown in the PRISM list leaked by Edward Snowden in 2013, I am currently learning Git Bash and may migrate this blog somewhere else, which I currently thought Repos such as Gitee, with an Mulan Version 2.0 license, but I am still fairly basic with the bash Git so I need sometime on that, which learning Bash Git is very interesting and have the capabilities of doing more advanced function compared to the Git GUI that I am using now, and it is more open sourced therefore, the leaking will not be such a huge issue compared to a software made by a spying company.
+
+
+Hopefully I can update this blog soon if I have time after finishing homework.
+<br/>
 *29 Aug,2020*(On the Topic of other way of packing)
 <br/>
 
-I tested out CX-Freeze lately
+I tested out CX-Freeze lately, which I still need to study more on
 
 
 
@@ -18,7 +25,7 @@ I tested out CX-Freeze lately
 
 <br/>
 
-After mentioning pyinstaller in last post, I have been researching other ways of packing to be more friendly for people that don't know code, more info on the next post.
+After mentioning pyinstaller in last post, I have been researching other ways of packing to be more friendly for people that don't know code, more info on the upcoming post.
 
 
 
@@ -33,12 +40,6 @@ Today, I tested out mutiple way of packing python into .exe files, which will be
 
 
 <br/>
-
-
-
-
-
-
 
 
 
