@@ -1,5 +1,11 @@
-<<<<<<< Updated upstream
-=======
+
+*15 Sep,2020* (Migration)
+
+Hey all, I have already decided that I am going to migrate this blog to Gitee for Web-Privacy reasons soon, I will share more details on that matters later
+
+
+<br/>
+<br/>
 
 *14 Sep,2020* (On the topic of Git and Other Repos)
 
