@@ -1,4 +1,10 @@
 
+
+*16 Sep,2020* 
+
+https://gitee.com/rt23456p/Program-Blog will be the new link for this blog, hope all will understand.
+
+
 *15 Sep,2020* (Migration)
 
 Hey all, I have already decided that I am going to migrate this blog to Gitee for Web-Privacy reasons soon, I will share more details on that matters later
